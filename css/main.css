@@ -122,12 +122,15 @@ a:hover{
 
 @media screen and (min-width: 480px){
     body {
-        
+        margin:0;
+        padding:0;
     }
     
     footer{ 
-        
+        height:30px;
+        background-color: black;
     }
+    
 }
 
 
